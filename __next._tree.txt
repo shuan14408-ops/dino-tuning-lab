@@ -1,2 +1,2 @@
-:HL["/dino-tuning-lab/_next/static/chunks/0zg_ze9we8vr4.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"G6eBpNh1BzpYj1LOMOrTe"}
+:HL["/flap-lab/_next/static/chunks/0zg_ze9we8vr4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"4vrxfLcl_F1ULh1C8gdml"}
