@@ -1,8 +1,8 @@
-# Flap Tuning Lab｜飛翔小鳥參數實驗室
+# Flap Lab｜飛翔小鳥參數實驗室
 
-線上網站：https://shuan14408-ops.github.io/dino-tuning-lab/
+線上網站：https://shuan14408-ops.github.io/flap-lab/
 
-[![網站畫面](screenshot.webp)](https://shuan14408-ops.github.io/dino-tuning-lab/)
+[![網站畫面](screenshot.webp)](https://shuan14408-ops.github.io/flap-lab/)
 
 調整拍翅力度、重力、速度與管道參數，親自試飛，找出最順手的遊戲手感。
 
